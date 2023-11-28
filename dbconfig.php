@@ -1,7 +1,7 @@
 <?php
 $dbserver = "localhost";
 $dbname = "school";
-$dbuser = "yoly"
-$bbpass = "abc123";
+$dbuser = "yoly";
+$dbpass = "abc123";
 ?>
 
