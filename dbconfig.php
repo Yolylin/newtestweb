@@ -4,4 +4,3 @@ $dbname = "school";
 $dbuser = "yoly";
 $dbpass = "abc123";
 ?>
-
